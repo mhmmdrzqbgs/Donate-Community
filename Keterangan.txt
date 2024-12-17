@@ -1,0 +1,22 @@
+Kelompok UAS Praktikum Pemrograman Lanjut
+Kelas B
+
+Anggota :
+Ahmad Dwi Alfianto (202251048)
+Mahir Mahendra (202251059)
+Rauhillah (202251087)
+Muhammad Rizqi Bagus Trianto (202251088)
+Bangga Aditya Ardiansyah (202251091)
+Dany Oktavian Wardana (202251092)
+
+Keterangan tabel
+tabel_rekap1 : Dany Oktavian Wardana (202251092)
+tabel_rekap2 : Rauhillah (202251087)
+tabel_jadwal1 : Bangga Aditya Ardiansyah (202251091)
+tabel_jadwal2 : Ahmad Dwi Alfianto (202251048)
+tabel_dok : Muhammad Rizqi Bagus Trianto (202251088)
+tabel_log : Mahir Mahendra (202251059)
+
+login
+username : admin
+password : admin
